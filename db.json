@@ -1,0 +1,146 @@
+{
+  "contacts": [
+    {
+      "id": "avi971",
+      "name": "avinasha",
+      "number": "9653265127",
+      "email": "avinash@gmail.com",
+      "imageurl": "https://img.freepik.com/premium-photo/portrait-young-man-sitting-his-desk-office_484651-5103.jpg",
+      "batch": "Designer",
+      "location": "edavannpara",
+      "dob": "2024-01-10"
+    },
+    {
+      "id": "alex555",
+      "name": "Alex Turner",
+      "number": "5559876543",
+      "email": "alex.turner@gmail.com",
+      "imageurl": "https://media.istockphoto.com/id/1354898601/photo/shot-of-a-young-businessman-using-a-laptop-in-a-modern-office.jpg?s=612x612&w=0&k=20&c=qhlY6BZ9CowHjWb5Fk7WNO8AI8Br6CEzL-bbtHeS8po=",
+      "batch": "Marketing",
+      "location": "miami",
+      "dob": "1999-09-13",
+      "pass": "12345",
+      "cpass": "12345"
+    },
+    {
+      "id": "sara777",
+      "name": "Sara Davis",
+      "number": "7890123456",
+      "email": "sara.d@example.com",
+      "imageurl": "https://img.freepik.com/free-photo/young-pretty-business-woman-with-notebook-isolated_231208-301.jpg",
+      "batch": "Finance",
+      "location": "seattle",
+      "dob": "07-05-1993",
+      "pass": "12345",
+      "cpass": "12345"
+    },
+    {
+      "id": "mike888",
+      "name": "Mike Thompson",
+      "number": "4567890123",
+      "email": "mike.t@example.com",
+      "imageurl": "https://www.shutterstock.com/image-photo/cheerful-young-bearded-african-american-600nw-2135143141.jpg",
+      "batch": "Engineering",
+      "location": "dallas",
+      "dob": "02-18-1987",
+      "pass": "12345",
+      "cpass": "12345"
+    },
+    {
+      "id": "emily999",
+      "name": "Emily White",
+      "number": "3210987654",
+      "email": "emily.w@example.com",
+      "imageurl": "https://media.istockphoto.com/id/871802194/photo/smiling-young-female-entrepreneur-working-on-a-laptop-at-home.jpg?s=612x612&w=0&k=20&c=cfYIc4SLau5iuCVWPVHtK9FcyfgapsIW5D7dPP4KbE0=",
+      "batch": "Operations",
+      "location": "austin",
+      "dob": "09-25-1991",
+      "pass": "12345",
+      "cpass": "12345"
+    },
+    {
+      "id": "kevin1010",
+      "name": "Kevin Brown",
+      "number": "9876543210",
+      "email": "https://img.freepik.com/premium-photo/portrait-smiling-african-american-businessman-signs-contract-sit-table-meeting-office-with-notebook-with-pen-laptop_183314-5976.jpg",
+      "imageurl": "https://example.com/kevin.jpg",
+      "batch": "Research",
+      "location": "boston",
+      "dob": "12-08-1984",
+      "pass": "12345",
+      "cpass": "12345"
+    },
+    {
+      "id": "ryan1212",
+      "name": "Ryan Taylor",
+      "number": "1239876540",
+      "email": "ryan.t@example.com",
+      "imageurl": "https://c8.alamy.com/comp/FCXM9D/portrait-of-a-young-caucasian-businessman-sitting-office-FCXM9D.jpg",
+      "batch": "CustomerService",
+      "location": "atlanta",
+      "dob": "03-28-1989",
+      "pass": "12345",
+      "cpass": "12345"
+    },
+    {
+      "id": "natalie1313",
+      "name": "Natalie Davis",
+      "number": "7890123456",
+      "email": "natalie.d@example.com",
+      "imageurl": "https://st.depositphotos.com/1017228/59329/i/450/depositphotos_593299738-stock-photo-young-man-working-laptop-computer.jpg",
+      "batch": "QualityAssurance",
+      "location": "denver",
+      "dob": "01-17-1992",
+      "pass": "12345",
+      "cpass": "12345"
+    },
+    {
+      "id": "steve1414",
+      "name": "Steve Miller",
+      "number": "4567890123",
+      "email": "steve.m@example.com",
+      "imageurl": "https://media.istockphoto.com/id/1369746033/photo/portrait-of-a-handsome-young-businessman-working-in-office.jpg?s=612x612&w=0&k=20&c=ca1AFfPfzOPtHZdAwa7QtCD1TFDws7PG9t_rqSibdC0=",
+      "batch": "Design",
+      "location": "portland",
+      "dob": "08-02-1986",
+      "pass": "12345",
+      "cpass": "12345"
+    },
+    {
+      "id": "olivia1515",
+      "name": "Olivia Green",
+      "number": "3210987654",
+      "email": "olivia.g@example.com",
+      "imageurl": "https://media.istockphoto.com/id/1369746033/photo/portrait-of-a-handsome-young-businessman-working-in-office.jpg?s=612x612&w=0&k=20&c=ca1AFfPfzOPtHZdAwa7QtCD1TFDws7PG9t_rqSibdC0=",
+      "batch": "PublicRelations",
+      "location": "phoenix",
+      "dob": "05-09-1997",
+      "pass": "12345",
+      "cpass": "12345"
+    },
+    {
+      "id": "sun965",
+      "name": "sunil ravi",
+      "number": "9653215486",
+      "email": "sunil@gmail.com",
+      "imageurl": "https://img.freepik.com/free-photo/medium-shot-smiley-man-sitting-desk_23-2149927603.jpg",
+      "batch": "Tech-Lead",
+      "location": "edavannapara",
+      "dob": "2023-12-14",
+      "pass": "12345",
+      "cpass": "12345"
+    },
+    {
+      "id": "moh965",
+      "name": "mohammad ck",
+      "number": "9654563256",
+      "email": "mohammadck@gmail.com",
+      "imageurl": "https://www.shutterstock.com/image-photo/picture-cheerful-businessman-sitting-office-260nw-568326445.jpg",
+      "batch": "Tech-Lead",
+      "location": "newyork",
+      "dob": "2024-01-20",
+      "pass": "12345",
+      "cpass": "12345"
+    }
+  ]
+}
